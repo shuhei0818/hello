@@ -1,3 +1,3 @@
 module github.com/shuhei0818/hello
 
-go 1.16
+go 1.17
